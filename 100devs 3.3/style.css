@@ -1,0 +1,48 @@
+h1, h2, form{
+  text-align: center;
+}
+
+ul{
+  width: 100px;
+  height: 287px;
+  border: 7px solid black;
+  margin: 0 auto;
+  padding: 0;
+  padding-right: 10px;
+  
+}
+li{
+  text-align: center;
+  width: 94px;
+  height: 50px;
+  border: 1px solid black;
+}
+h2{
+  font-size: 75px;
+  color: rgba(1700, 40, 90, 7);
+  font-weight: bold;
+  display: block;
+  border: 10px solid rgba(1700, 40, 90, 7);
+  background-color: black;
+}
+body{
+  background-color: aqua;
+}
+
+#purple{
+  background-image: url('dbz.jfif');
+  background-size: 100px;
+  
+}
+#green{
+  background-image: url('HxHkg.jfif');
+  background-size: 100px;
+}
+#blue{
+  background-image: url('onePiece.jfif');
+  background-size: 100px;
+}
+#red{
+  background-image: url('bleach.jfif');
+  background-size: 100px;
+}
